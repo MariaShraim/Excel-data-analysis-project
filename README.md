@@ -1,4 +1,5 @@
-Bike Buyers Data Analysis Project
+**Bike Buyers Data Analysis Project**
+
 Overview
 
 This project was created in Microsoft Excel as part of a data analytics practice project.
